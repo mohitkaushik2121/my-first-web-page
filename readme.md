@@ -2,4 +2,4 @@ Normal Text
 
 # My first webpage
 ## html and css
-![](https://ineuron.ai/images/ineuron-logo.png)
+![](file:///Users/nandinikaushik/Downloads/fsjs2-main/Week%2004/Project%201/output.png)
