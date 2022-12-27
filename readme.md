@@ -2,4 +2,4 @@ Normal Text
 
 # My first webpage
 ## html and css
-![Alter text](file:///Users/nandinikaushik/Downloads/fsjs2-main/Week%2004/Project%201/output.png)
+![Alter text](/Users/nandinikaushik/Downloads/fsjs2-main/Week\ 04/Project\ 1/output.png)
